@@ -193,7 +193,7 @@
       "id": "deepseek-coder",
       "provider": "DeepSeek",
       "providerId": "deepseek",
-      "name": "DeepSeek",
+      "name": "deepseek-coder",
       "multiModal": false
     }
   ]
