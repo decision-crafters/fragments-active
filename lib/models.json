@@ -188,6 +188,13 @@
       "providerId": "ollama",
       "name": "Mistral Large",
       "multiModal": false
+    },
+    {
+      "id": "deepseek-coder",
+      "provider": "DeepSeek",
+      "providerId": "deepseek",
+      "name": "DeepSeek",
+      "multiModal": false
     }
   ]
 }
